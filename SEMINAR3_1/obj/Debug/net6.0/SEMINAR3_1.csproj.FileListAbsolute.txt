@@ -1,0 +1,15 @@
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\bin\Debug\net6.0\SEMINAR3_1.exe
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\bin\Debug\net6.0\SEMINAR3_1.deps.json
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\bin\Debug\net6.0\SEMINAR3_1.runtimeconfig.json
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\bin\Debug\net6.0\SEMINAR3_1.dll
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\bin\Debug\net6.0\SEMINAR3_1.pdb
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\SEMINAR3_1.csproj.AssemblyReference.cache
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\SEMINAR3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\SEMINAR3_1.AssemblyInfoInputs.cache
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\SEMINAR3_1.AssemblyInfo.cs
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\SEMINAR3_1.csproj.CoreCompileInputs.cache
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\SEMINAR3_1.dll
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\refint\SEMINAR3_1.dll
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\SEMINAR3_1.pdb
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\SEMINAR3_1.genruntimeconfig.cache
+C:\Users\Inga\GIT_GB\C#SEMINAR3\SEMINAR3_1\obj\Debug\net6.0\ref\SEMINAR3_1.dll
